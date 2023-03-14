@@ -1,0 +1,36 @@
+@media screen and (max-width: 479px) {
+  .wrapper {
+    width: 400px;
+  }
+
+  .left {
+    width: 200px;
+    height: 500px;
+  }
+  .left-upper {
+    width: 90px;
+    height: 60px;
+  }
+  .left-lower {
+    width: 90px;
+    height: 320px;
+  }
+
+  .center {
+    float: none;  /* 間違えた所 */
+    width: 200px;
+  }
+
+  .right {
+    width: 50%;  /* 間違えた所 */
+  }
+  .right-inner {
+    width: 110px;
+  }
+  .right-inner-text {
+    font-size: 5px;
+    padding: 10px;
+    background-color: orange;
+    border: 5px solid red;
+  }
+}

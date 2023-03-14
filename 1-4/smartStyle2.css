@@ -20,7 +20,7 @@
   .right-lower {
     width: 200px;
   }
-
+}
 
 @media screen and (max-width: 479px) {
   #wrapper {
